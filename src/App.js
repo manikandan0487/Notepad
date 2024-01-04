@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <DataProvider>
-        <Header title={"Chat App"} />
+        <Header />
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />

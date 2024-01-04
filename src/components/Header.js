@@ -1,21 +1,11 @@
-import React, { useContext } from "react";
-// import { FaLaptop, FaTabletAlt, FaMobileAlt } from "react-icons/fa";
-import { PiChatCircleTextFill } from "react-icons/pi";
-import DataContext from "../Context/DataContext";
-const Header = ({ title }) => {
-  const {width} = useContext(DataContext)
+import React from "react";
+import { PiNotepadDuotone } from "react-icons/pi";
+const Header = () => {
   return (
     <header className="Header">
-      <h1>{title}</h1>
-      {/* {width < 768 ? (
-        <FaMobileAlt />
-      ) : width < 992 ? (
-        <FaTabletAlt />
-      ) : (
-        <FaLaptop />
-      )} */}
+      <h1>Notepad</h1>
       {
-        <span><PiChatCircleTextFill className="logos"/></span>
+        <span><PiNotepadDuotone className="logos"/></span>
       }
     </header>
   );

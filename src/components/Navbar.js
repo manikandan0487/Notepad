@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import DataContext from "../Context/DataContext";
-import { PiChatCircleTextFill } from "react-icons/pi";
+import { PiNotepadDuotone } from "react-icons/pi";
 import { Link } from "react-router-dom";
 
 const Nav = () => {
@@ -18,13 +18,13 @@ const Nav = () => {
         />
       </form>
       <div className="navbar">
-        <p>{<PiChatCircleTextFill className="logo" />}ChatApp</p>
+        <p>{<PiNotepadDuotone className="logo" />}Notepad</p>
         <ul>
           <li>
             <Link to="/">Home</Link>
           </li>
           <li>
-            <Link to="post">Post</Link>
+            <Link to="post">Create</Link>
           </li>
           <li>
             <Link to="about">About</Link>
