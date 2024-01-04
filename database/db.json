@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "ea molestias quasi exercitationem",
+      "datetime": "June 21, 2021 1:5:33 PM",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    },
+    {
+      "id": 4,
+      "title": "eum et est occaecati",
+      "datetime": "March 28, 2021 07:02:07 PM",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "id": 6,
+      "title": "dolorem",
+      "datetime": "January,03,2024,4:54:56 PM",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    },
+    {
+      "id": 11,
+      "title": "React ",
+      "datetime": "January 04,2024 3:44:57 PM",
+      "body": "React is a JavaScript-based UI development library. Although React is a library rather than a language, it is widely used in web development. "
+    },
+    {
+      "id": 14,
+      "title": "javascript ",
+      "datetime": "January 03,2024 10:17:11 PM",
+      "body": "javascript is greate! "
+    },
+    {
+      "id": 15,
+      "title": "Hello",
+      "datetime": "January 04,2024 3:44:15 PM",
+      "body": "manikandan!"
+    }
+  ]
+}
